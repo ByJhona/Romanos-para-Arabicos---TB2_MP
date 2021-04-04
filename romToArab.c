@@ -1,5 +1,3 @@
-#include "romToArab.h"
-
 int romanoToarabico(char string[]){
     int arab = 0;
     int cont = 1;
